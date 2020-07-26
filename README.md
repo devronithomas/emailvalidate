@@ -1,7 +1,9 @@
 # Validate email-id using python
 
-# Python code using re (regular expression) module in python
-# use "import re"
+###########################################################
+Python code using re (regular expression) module in python
+use "import re"
+###########################################################
 
 A valid email address is required to sign up for an xMatters trial user account. A valid email address consists of an email prefix and an email domain, both in acceptable formats.
 
