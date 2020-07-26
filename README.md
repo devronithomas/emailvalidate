@@ -20,3 +20,4 @@ Acceptable email prefix format:
 Acceptable email domain formats
   Allowed characters: letters, numbers, dashes.
   The last portion of the domain must be at least two characters, for example: .com, .org, .cc
+
